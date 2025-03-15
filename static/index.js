@@ -1,3 +1,5 @@
+alert("Warning!\n The link ez.entity.lol is now outdated!\n Use ez.koffeejava.lol!")
+
 const form = document.querySelector('form');
 const input = document.querySelector('input');
 
